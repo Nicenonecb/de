@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # dep-solver
 =======
 # Dep-Solver (Refactored Version)
@@ -54,4 +54,4 @@ To run the tests and ensure the module is working as expected, execute:
 ```bash
 npm test
 ```
->>>>>>> 7f38282 (init)
+

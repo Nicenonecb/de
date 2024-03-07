@@ -1,6 +1,5 @@
 
-# dep-solver
-=======
+
 # Dep-Solver (Refactored Version)
 
 Dep-Solver is a Node.js module designed to resolve dependencies between packages or modules within a project. It utilizes a topological sorting algorithm to determine the order in which modules should be loaded or executed, ensuring that all dependencies are satisfied before a module is run. Additionally, it provides functionality to build and visualize dependency graphs, aiding in the management and troubleshooting of project dependencies.
